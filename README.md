@@ -1,6 +1,6 @@
 This project aims to explore & demostrate some of the capabilities of Vapor + Fluent. This is a very simple Sports server that explores the following:
 
-  1) Models, Migrations & Controllers
+  1) Models, Migrations + Controllers
   2) Relationships: Parent & Sibling
   3) Athentication
   4) Route Protection: Middleware
