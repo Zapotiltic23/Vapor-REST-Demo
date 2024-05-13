@@ -1,3 +1,4 @@
+# Vapor + REST
 This project aims to explore & demostrate some of the capabilities of Vapor + Fluent. This is a very simple Sports server that explores the following:
 
   1) Models, Migrations + Controllers
@@ -5,6 +6,8 @@ This project aims to explore & demostrate some of the capabilities of Vapor + Fl
   3) Athentication
   4) Route Protection: Middleware
   5) Fluent: Database Queries
+
+## How to run?
 
 The project has been updated to use async/await and the package has been configure for 'strict concurrency' checking in preparation for Swift 6.0. To set up & run this project, please do the following:
 
@@ -20,6 +23,7 @@ The project has been updated to use async/await and the package has been configu
   6) Set the project schema to the folder where your project lives:
      - Edit Schema > Working Directory > Check “Use custom directory” > [Choose your project’s folder]
 
+## Endpoints
 
 Here are the project's User endpoints: 
 1) http://127.0.0.1:8080/api-v1/user
