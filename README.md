@@ -21,36 +21,36 @@ The project has been updated to use async/await and the package has been configu
      - Edit Schema > Working Directory > Check “Use custom directory” > [Choose your project’s folder]
 
 
-Here are the project's User endpoints:
-	1) http://127.0.0.1:8080/api-v1/user
-	2) http://127.0.0.1:8080/api-v1/user/search?term=
- 	3) http://127.0.0.1:8080/api-v1/user/ATHLETE_ID
- 	4) http://127.0.0.1:8080/api-v1/user/ATHLETE_ID/coach
-	5) http://127.0.0.1:8080/api-v1/user/ATHLETE_ID/athlete
+Here are the project's User endpoints: 
+1) http://127.0.0.1:8080/api-v1/user
+2) http://127.0.0.1:8080/api-v1/user/search?term=
+3) http://127.0.0.1:8080/api-v1/user/ATHLETE_ID
+4) http://127.0.0.1:8080/api-v1/user/ATHLETE_ID/coach
+5) http://127.0.0.1:8080/api-v1/user/ATHLETE_ID/athlete
 	
 Here are the project's Athlete endpoints:
-	1) http://127.0.0.1:8080/api-v1/athlete
-	2) http://127.0.0.1:8080/api-v1/athlete/search?term=
- 	3) http://127.0.0.1:8080/api-v1/athlete/ATHLETE_ID
-	4) http://127.0.0.1:8080/api-v1/athlete/ATHLETE_ID/user
- 	5) http://127.0.0.1:8080/api-v1/athlete/ATHLETE_ID/coach
+1) http://127.0.0.1:8080/api-v1/athlete
+2) http://127.0.0.1:8080/api-v1/athlete/search?term=
+3) http://127.0.0.1:8080/api-v1/athlete/ATHLETE_ID
+4) http://127.0.0.1:8080/api-v1/athlete/ATHLETE_ID/user
+5) http://127.0.0.1:8080/api-v1/athlete/ATHLETE_ID/coach
 
  Here are the project's Drill endpoints:
-	1) http://127.0.0.1:8080/api-v1/drill
-	2) http://127.0.0.1:8080/api-v1/drill/search?term=
- 	3) http://127.0.0.1:8080/api-v1/drill/DRILL_ID
- 	4) http://127.0.0.1:8080/api-v1/drill/DRILL_ID/user
+1) http://127.0.0.1:8080/api-v1/drill
+2) http://127.0.0.1:8080/api-v1/drill/search?term=
+3) http://127.0.0.1:8080/api-v1/drill/DRILL_ID
+4) http://127.0.0.1:8080/api-v1/drill/DRILL_ID/user
 
  Here are the project's Coach endpoints:
-	1) http://127.0.0.1:8080/api-v1/coach
-	2) http://127.0.0.1:8080/api-v1/coach/search?term=
- 	3) http://127.0.0.1:8080/api-v1/coach/COACH_ID
-	4) http://127.0.0.1:8080/api-v1/coach/COACH_ID/user
- 	5) http://127.0.0.1:8080/api-v1/coach/COACH_ID/athlete/ATHLETE_ID
-	6) http://127.0.0.1:8080/api-v1/coach/COACH_ID/athlete
+1) http://127.0.0.1:8080/api-v1/coach
+2) http://127.0.0.1:8080/api-v1/coach/search?term=
+3) http://127.0.0.1:8080/api-v1/coach/COACH_ID
+4) http://127.0.0.1:8080/api-v1/coach/COACH_ID/user
+5) http://127.0.0.1:8080/api-v1/coach/COACH_ID/athlete/ATHLETE_ID
+6) http://127.0.0.1:8080/api-v1/coach/COACH_ID/athlete
 
  Here are the project's Authentication endpoints:
-	1) http://127.0.0.1:8080/api-v1/login
-	2) http://127.0.0.1:8080/api-v1/token
- 	3) http://127.0.0.1:8080/api-v1/authentication
- 	4) http://127.0.0.1:8080/api-v1/token/TOKEN_ID
+1) http://127.0.0.1:8080/api-v1/login
+2) http://127.0.0.1:8080/api-v1/token
+3) http://127.0.0.1:8080/api-v1/authentication
+4) http://127.0.0.1:8080/api-v1/token/TOKEN_ID
